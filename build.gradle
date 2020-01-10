@@ -2,6 +2,7 @@ plugins {
     id 'java'
     id 'application'
 }
+
 group 'com.example'
 mainClassName = 'com.example.MainApplication'
 version '1.0-SNAPSHOT'
